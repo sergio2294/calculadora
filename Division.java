@@ -14,5 +14,6 @@ public class Division {
 		double resultado = num1 / num2;
 		return resultado;
 	}
+public double modulo;
 
 }
